@@ -1,1 +1,1 @@
-This repository contains the folders for weeks 1 Projects
+The folder houses all the projects for the Shell Permissions Project
